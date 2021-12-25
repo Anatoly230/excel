@@ -1,7 +1,11 @@
 {
   "name": "excel-course",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "Pure Javascript Excel Application",
+=======
+  "description": "Pure JavaScript Excel Application",
+>>>>>>> 7e71befac77da44feb994921373c861263f88e56
   "main": "webpack.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,13 +14,18 @@
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "git+https://github.com/Anatoly230/excel.git"
+=======
+    "url": "git+https://github.com/vladilenm/excel-course.git"
+>>>>>>> 7e71befac77da44feb994921373c861263f88e56
   },
   "keywords": [
     "js",
     "javascript",
     "excel"
   ],
+<<<<<<< HEAD
   "author": "Anatoli Kitaev",
   "license": "ISC",
   "bugs": {
@@ -27,5 +36,17 @@
   "devDependencies": {
     "webpack": "^5.65.0",
     "webpack-cli": "^4.9.1"
+=======
+  "author": "Vladilen Minin <vladilen.minin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladilenm/excel-course/issues"
+  },
+  "homepage": "https://github.com/vladilenm/excel-course#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+>>>>>>> 7e71befac77da44feb994921373c861263f88e56
   }
 }
